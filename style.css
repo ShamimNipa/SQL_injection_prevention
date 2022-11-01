@@ -1,0 +1,14 @@
+.form {
+    background-color: rgb(136, 101, 59);
+    width: 50%;
+    height: 50%;
+    padding: 10px;
+    margin: 5px;
+}
+
+#button {
+    background-color: blue;
+    color: rgb(244, 244, 248);
+    border-radius: 5px;
+    cursor: pointer;
+}
